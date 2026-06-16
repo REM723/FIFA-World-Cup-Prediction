@@ -20,10 +20,6 @@ The model combines:
 - Knockout stage simulation
 - 10,000 Monte Carlo tournament runs
 
-## ScreenShots
-![Probability Chart](assets/img1.png)
-![ Top 20 Rating](assets/img2.png)
-
 ## Dataset
 
 Source:
