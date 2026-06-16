@@ -79,3 +79,15 @@ Press CTRL+C to quit
 127.0.0.1 - - [16/Jun/2026 18:24:24] "GET /api/teams HTTP/1.1" 200 -
 127.0.0.1 - - [16/Jun/2026 18:24:24] "GET /api/teams HTTP/1.1" 200 -
 127.0.0.1 - - [16/Jun/2026 18:24:28] "POST /api/match/predict HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jun/2026 18:26:31] "GET /api/predictions HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jun/2026 18:26:31] "GET /api/predictions HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jun/2026 18:26:35] "GET /api/groups HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jun/2026 18:26:35] "GET /api/groups HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jun/2026 18:26:36] "GET /api/teams HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jun/2026 18:26:36] "GET /api/teams HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jun/2026 18:26:37] "POST /api/match/predict HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jun/2026 18:26:39] "POST /api/simulate/tournament HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jun/2026 18:26:43] "GET /api/teams HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jun/2026 18:26:43] "GET /api/teams HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jun/2026 18:26:44] "GET /api/predictions HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jun/2026 18:26:44] "GET /api/predictions HTTP/1.1" 200 -
